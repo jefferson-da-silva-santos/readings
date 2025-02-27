@@ -1,6 +1,4 @@
 <img src="./banner.jpg">
-<br>
-
 # 📚 Leituras - Guias Programados por IA
 
 Bem-vindo ao **Leituras**, o repositório onde a inteligência artificial e a programação se encontram para criar *guias fantásticos* sobre os mais diversos temas do universo da programação! 🤖✨
