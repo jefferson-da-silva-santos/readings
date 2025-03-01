@@ -1,5 +1,4 @@
 <img src="./banner.jpg">
-<br>
 
 # 📚 Leituras - Guias Programados por IA
 
