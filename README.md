@@ -140,59 +140,75 @@ Sinta-se à vontade para explorar os guias, aprender e aplicar tudo o que você 
 
 ## 🎨 Fron-End > React > Estilização
 
-- [[Guia sobre Tailwind CSS](./Front-End%20com%20React/Estilização/Guia%20Tailwind%20CSS.md)]
-- [[Guia sobre React e TailwindCSS](./Front-End%20com%20React/Estilização/React%20e%20TailwindCSS.md)]
+| Link | Descrição |
+|------|-----------|
+| [Guia sobre Tailwind CSS](./Front-End%20com%20React/Estilização/Guia%20Tailwind%20CSS.md) | Aqui você vai aprender como usar o Tailwind CSS para criar designs rápidos e customizáveis com classes utilitárias.
+| [Guia sobre React e TailwindCSS](./Front-End%20com%20React/Estilização/React%20e%20TailwindCSS.md) | Aqui você vai aprender como integrar Tailwind CSS com React para construir interfaces modernas e responsivas.
 
 
 ## ⚡ Fron-End > React > Performance
 
-- [[Guia sobre Performance com React e Node](./Front-End%20com%20React/Performance/Pensando%20em%20performance%20com%20React%20e%20Node.md)]
+| Link | Descrição |
+|------|-----------|
+| [Guia sobre Performance com React e Node](./Front-End%20com%20React/Performance/Pensando%20em%20performance%20com%20React%20e%20Node.md) | Aqui você vai aprender técnicas para otimizar o desempenho de aplicações React no frontend e Node.js no backend, reduzindo latência e melhorando a experiência do usuário.
 
 
 ## 🔍 Outros Tópicos e Conceitos
 
-- [[Algoritmos que todo Dev precisa conhecer](./Outros%20Temas/Algoritmos%20que%20todo%20Dev%20precisa%20conhecer.md)]
-- [[Clean Architecture no Node](./Outros%20Temas/Clean%20Architecture%20no%20Node%20copy.md)]
-- [[Comandos avançados do GIT](./Outros%20Temas/Comandos%20avançados%20do%20GIT.md)]
-- [[DDD n Node](./Outros%20Temas/DDD%20n%20Node.md)]
-- [[Depuração Vscode](./Outros%20Temas/Depuração%20Vscode.md)]
-- [[Docker](./Outros%20Temas/Docker.md)]
-- [[Escrevendo Mensagens de COMMIT corretamente](./Outros%20Temas/Escrevendo%20Mensagens%20de%20COMMIT%20corretamente.md)]
-- [[Guia CMD](./Outros%20Temas/Guia%20CMD.md)]
-- [[Guia Completo das Novas Sintaxes do JavaScript (ES6+)](./Outros%20Temas/Guia%20Completo%20das%20Novas%20Sintaxes%20do%20JavaScript%20%28ES6%2B%29.md)]
-- [[Guia Documentação com Swagger](./Outros%20Temas/Guia%20Documentação%20com%20Swagger.md)]
-- [[Guia Spread JavaScript](./Outros%20Temas/Guia%20Spread%20JavaScript.md)]
-- [[Padrão requisições React](./Outros%20Temas/Padrão%20requizições%20React.md)]
-- [[Projeto do PDF PIx](./Outros%20Temas/Projeto%20do%20PDF%20PIx.md)]
-- [[Termos da Programação](./Outros%20Temas/Termos%20da%20Programação.md)]
-- [[Testando aplicação com Jest](./Outros%20Temas/Testando%20aplicação%20com%20Jest.md)]
-- [[Trabalhando com Imagens no Node](./Outros%20Temas/Trabalhando%20com%20Imagens%20no%20Node.md)]
-- [[Área do Cliente](./Outros%20Temas/Área%20do%20Cliente.md)]
+| Link | Descrição |
+|------|-----------| 
+| [Algoritmos que todo Dev precisa conhecer](./Outros%20Temas/Algoritmos%20que%20todo%20Dev%20precisa%20conhecer.md) | Aqui você vai aprender os algoritmos essenciais para lógica de programação e entrevistas técnicas.
+| [Clean Architecture no Node](./Outros%20Temas/Clean%20Architecture%20no%20Node%20copy.md) | Aqui você vai aprender como estruturar seu backend Node.js seguindo os princípios da Clean Architecture.
+| [Comandos avançados do GIT](./Outros%20Temas/Comandos%20avançados%20do%20GIT.md) | Aqui você vai aprender comandos Git poderosos para gerenciar repositórios como um pro.
+| [DDD n Node](./Outros%20Temas/DDD%20n%20Node.md) | Aqui você vai aprender como aplicar Domain-Driven Design (DDD) em projetos Node.js.
+| [Depuração Vscode](./Outros%20Temas/Depuração%20Vscode.md) | Aqui você vai aprender como debugar seu código no VSCode e encontrar erros rapidamente.
+| [Docker](./Outros%20Temas/Docker.md) | Aqui você vai aprender como criar, configurar e rodar containers para seus projetos.
+| [Escrevendo Mensagens de COMMIT corretamente](./Outros%20Temas/Escrevendo%20Mensagens%20de%20COMMIT%20corretamente.md) | Aqui você vai aprender boas práticas para escrever commits claros e organizados.
+| [Guia CMD](./Outros%20Temas/Guia%20CMD.md) | Aqui você vai aprender os principais comandos do prompt de comando para navegar e gerenciar arquivos.
+| [Guia Completo das Novas Sintaxes do JavaScript (ES6+)](./Outros%20Temas/Guia%20Completo%20das%20Novas%20Sintaxes%20do%20JavaScript%20%28ES6%2B%29.md) | Aqui você vai aprender os recursos modernos do JavaScript para escrever código mais eficiente.
+| [Guia Documentação com Swagger](./Outros%20Temas/Guia%20Documentação%20com%20Swagger.md) | Aqui você vai aprender como documentar APIs de forma profissional usando Swagger.
+| [Guia Spread JavaScript](./Outros%20Temas/Guia%20Spread%20JavaScript.md) | Aqui você vai aprender como usar o operador spread (...) para manipular arrays e objetos.
+| [Padrão requisições React](./Outros%20Temas/Padrão%20requizições%20React.md) | Aqui você vai aprender boas práticas para fazer requisições em aplicações React.
+| [Projeto do PDF PIx](./Outros%20Temas/Projeto%20do%20PDF%20PIx.md) | Aqui você vai aprender como gerar PDFs e integrar pagamentos via Pix.
+| [Termos da Programação](./Outros%20Temas/Termos%20da%20Programação.md) | Aqui você vai aprender os principais termos e conceitos do mundo da programação.
+| [Testando aplicação com Jest](./Outros%20Temas/Testando%20aplicação%20com%20Jest.md) | Aqui você vai aprender como testar seu código com Jest de forma eficiente.
+| [Trabalhando com Imagens no Node](./Outros%20Temas/Trabalhando%20com%20Imagens%20no%20Node.md) | Aqui você vai aprender como processar e manipular imagens no Node.js.
+| [Área do Cliente](./Outros%20Temas/Área%20do%20Cliente.md) | Aqui você vai aprender como criar uma área exclusiva para clientes em seu projeto.
 
 
 ## 🏛️ Outros Tópicos e Conceitos > Arquitetura e Design
 
-- [[Arquiteturas de Software](./Outros%20Temas/Arquiteturas%20de%20Software.md)]
-- [[Design Patterns](./Outros%20Temas/Design%20Patterns.md)]
+| Link | Descrição |
+|------|-----------|
+| [Arquiteturas de Software](./Outros%20Temas/Arquiteturas%20de%20Software.md) | Aqui você vai aprender como estruturar e organizar seu sistema usando diferentes arquiteturas, como MVC, Microservices e Clean Architecture.
+| [Design Patterns](./Outros%20Temas/Design%20Patterns.md) | Aqui você vai aprender como aplicar padrões de design como Singleton, Factory e Observer para resolver problemas comuns de maneira eficiente e reutilizável.
 
 
 ## ✅ Outros Tópicos e Conceitos > Boas Práticas
 
-- [[Nomeando Variáveis](./Outros%20Temas/Nomeando%20Variáveis.md)]
+| Link | Descrição |
+|------|-----------|
+| [Nomeando Variáveis](./Outros%20Temas/Nomeando%20Variáveis.md) | Aqui você vai aprender boas práticas para nomear variáveis de forma clara, objetiva e consistente, facilitando a leitura e manutenção do código.
 
 ## 💾 Outros Tópicos e Conceitos > Banco de Dados
 
-- [[Tipos de Join](./Outros%20Temas/Tipos%20de%20Join.md)]
+| Link | Descrição |
+|------|-----------|
+| [Tipos de Join](./Outros%20Temas/Tipos%20de%20Join.md) | Aqui você vai aprender os diferentes tipos de JOIN em SQL (INNER, LEFT, RIGHT, FULL) e como usá-los para combinar dados de várias tabelas de maneira eficiente.
 
 ## 📄 Outros Tópicos e Conceitos > PDFs
 
-- [[Guia jsPDF](./Outros%20Temas/PDFs%20com%20JavaScript/Guia%20jsPDF.md)]
-- [[Guia pdfmake](./Outros%20Temas/PDFs%20com%20JavaScript/Guia%20pdfmake.md)]
-- [[Guia react-pdf](./Outros%20Temas/PDFs%20com%20JavaScript/Guia%20react-pdf.md)]
+| Link | Descrição |
+|------|-----------|
+| [Guia jsPDF](./Outros%20Temas/PDFs%20com%20JavaScript/Guia%20jsPDF.md) | Aqui você vai aprender como usar o jsPDF para gerar arquivos PDF diretamente no navegador com JavaScript.
+| [Guia pdfmake](./Outros%20Temas/PDFs%20com%20JavaScript/Guia%20pdfmake.md) | Aqui você vai aprender como criar documentos PDF dinâmicos e personalizados no cliente utilizando a biblioteca pdfmake.
+| [Guia react-pdf](./Outros%20Temas/PDFs%20com%20JavaScript/Guia%20react-pdf.md) | Aqui você vai aprender como gerar e renderizar arquivos PDF em aplicações React com a biblioteca react-pdf.
 
 
 ## 💾 Upload e Processamento de Arquivos
 
-- [[Guia Multer](./Upload%20e%20Processamento%20de%20Arquivos/Guia%20Multer.md)]
-- [[Guia Sharp](./Upload%20e%20Processamento%20de%20Arquivos/Guia%20Sharp.md)]
-- [[Guia UUID](./Upload%20e%20Processamento%20de%20Arquivos/Guia%20UUID.md)]
+| Link | Descrição |
+|------|-----------|
+| [Guia Multer](./Upload%20e%20Processamento%20de%20Arquivos/Guia%20Multer.md) |  Aqui você vai aprender como usar o Multer para fazer o upload e manipulação de arquivos em um servidor Node.js.
+| [Guia Sharp](./Upload%20e%20Processamento%20de%20Arquivos/Guia%20Sharp.md) | Aqui você vai aprender como usar o Sharp para redimensionar, converter e otimizar imagens no Node.js.
+| [Guia UUID](./Upload%20e%20Processamento%20de%20Arquivos/Guia%20UUID.md) | Aqui você vai aprender como gerar identificadores únicos (UUID) para usar em seus projetos e garantir a unicidade dos dados.
