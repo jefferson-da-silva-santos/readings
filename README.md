@@ -188,13 +188,13 @@ Sinta-se à vontade para explorar os guias, aprender e aplicar tudo o que você 
 
 | Link | Descrição |
 |------|-----------|
-| [Nomeando Variáveis](./Outros%20Temas/Nomeando%20Variáveis.md) | Aqui você vai aprender boas práticas para nomear variáveis de forma clara, objetiva e consistente, facilitando a leitura e manutenção do código.
+| [Nomeando Variáveis](./Outros%20Temas/Boas%20Práticas/Nomeando%20Variáveis.md) | Aqui você vai aprender boas práticas para nomear variáveis de forma clara, objetiva e consistente, facilitando a leitura e manutenção do código.
 
 ## 💾 Outros Tópicos e Conceitos > Banco de Dados
 
 | Link | Descrição |
 |------|-----------|
-| [Tipos de Join](./Outros%20Temas/Tipos%20de%20Join.md) | Aqui você vai aprender os diferentes tipos de JOIN em SQL (INNER, LEFT, RIGHT, FULL) e como usá-los para combinar dados de várias tabelas de maneira eficiente.
+| [Tipos de Join](./Outros%20Temas/Tipos%20de%20Join/Tipos%20de%20Join.md) | Aqui você vai aprender os diferentes tipos de JOIN em SQL (INNER, LEFT, RIGHT, FULL) e como usá-los para combinar dados de várias tabelas de maneira eficiente.
 
 ## 📄 Outros Tópicos e Conceitos > PDFs
 
