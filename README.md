@@ -180,8 +180,8 @@ Sinta-se à vontade para explorar os guias, aprender e aplicar tudo o que você 
 
 | Link | Descrição |
 |------|-----------|
-| [Arquiteturas de Software](./Outros%20Temas/Arquiteturas%20de%20Software.md) | Aqui você vai aprender como estruturar e organizar seu sistema usando diferentes arquiteturas, como MVC, Microservices e Clean Architecture.
-| [Design Patterns](./Outros%20Temas/Design%20Patterns.md) | Aqui você vai aprender como aplicar padrões de design como Singleton, Factory e Observer para resolver problemas comuns de maneira eficiente e reutilizável.
+| [Arquiteturas de Software](./Outros%20Temas/Arquiteturas%20de%20Software/Arquiteturas%20de%20Software.md) | Aqui você vai aprender como estruturar e organizar seu sistema usando diferentes arquiteturas, como MVC, Microservices e Clean Architecture.
+| [Design Patterns](./Outros%20Temas/Design%20Patterns/Design%20Patterns.md) | Aqui você vai aprender como aplicar padrões de design como Singleton, Factory e Observer para resolver problemas comuns de maneira eficiente e reutilizável.
 
 
 ## ✅ Outros Tópicos e Conceitos > Boas Práticas
