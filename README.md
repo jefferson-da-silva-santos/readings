@@ -136,6 +136,7 @@ Sinta-se à vontade para explorar os guias, aprender e aplicar tudo o que você 
 | [Guia sobre Requisições para APIs com Fetch](./Outros%20Temas/React%20Js/Requisições%20para%20APIs%20com%20Fetch.md) | Aqui você vai aprender como buscar e enviar dados para APIs usando Fetch.
 | [Guia sobre Context API do React](./Front-End%20com%20React/Gerenciamento%20de%20Estad%20e%20Contexto/Context%20API%20do%20react.md) | Aqui você vai aprender como gerenciar estados globais sem precisar de Redux.
 | [Guia sobre Context API do React - Exercícios](./Outros%20Temas/React%20Js/Context%20API%20do%20react%20exercícios.md) | Aqui você vai praticar a Context API com desafios práticos.
+| [Guia sobre rotas privadas com React Router](./Front-End%20com%20React/Rotas%20privadas%20com%20React%20Router.md) | Entenda como criar rotas privadas em uma aplicação JPA usando o react router dom.
 
 
 ## 🎨 Fron-End > React > Estilização
