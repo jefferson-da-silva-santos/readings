@@ -4,7 +4,7 @@ Sabe aquele momento em que sua API começa a virar um samba do desenvolvedor doi
 
 ---
 
-## 🤔 Mas que diabos é DTO?
+## 🤔 Mas que raios é DTO?
 
 DTO = **Data Transfer Object**  
 Traduzindo de um jeito sem Google Tradutor: é **um objeto que serve só pra carregar dados de um lado pro outro**. Ele não tem lógica, não sabe nada da vida, só carrega informações como uma boa mochila de aventureiro. 🎒
