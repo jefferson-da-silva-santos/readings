@@ -1,7 +1,3 @@
-Perfeito! Aqui está um **Guia Completo e Divertido de POO com Java**, do jeitinho que você pediu — com explicações claras, exemplos práticos e um toque de humor para não cair no tédio. 🚀
-
----
-
 # ☕ Guia JavaZístico da Programação Orientada a Objetos (POO)
 
 ## 🧠 O que é POO?
