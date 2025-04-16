@@ -181,6 +181,7 @@ Sinta-se à vontade para explorar os guias, aprender e aplicar tudo o que você 
 | [Camada Utils em APIs](./Outros%20Temas/Guia%20sobre%20a%20camada%20Utils%20em%20Apis.md) | Aqui você vai aprender para que serve a camada Utils em APIs.
 | [Camada Repository em APIs](./Outros%20Temas/Guia%20sobre%20a%20camada%20Repository%20em%20Apis.md) | Aqui você vai aprender para que serve a camada Repository em APIs.
 | [Camada Model em APIs](./Outros%20Temas/Guia%20sobre%20a%20camada%20Model%20em%20Apis.md) | Aqui você vai aprender para que serve a camada Model em APIs.
+| [POO com Java](./Outros%20Temas/Guia%20de%20POO%20com%20java.md) | Aqui você vai aprender os pilares da programação orientada a objetos com java de forma divertida.
 
 
 ## 🏛️ Outros Tópicos e Conceitos > Arquitetura e Design
