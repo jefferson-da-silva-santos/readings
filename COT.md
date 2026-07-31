@@ -1,3 +1,17 @@
+Hoje nos vamos entender o funcionamento do novo projeto aqui da Ongold, o Gerency Cotações. Um projeto muito bom que nós vinhemos trabalhando nele a alguns dias.
+
+Para que possamos entender com mais clareza, é importante que nós, antes de entender como o sistema funciona, nós entendermos qual é a dor do mercado e como esse sistema vem resolver essa dor.
+
+Exemplo:
+
+Imagine um logista (pessoa que vende determinado produto em uma loja), esse logista quando percebe que está precisando de um determinado produto para vender na sua loja, ele tem uma singela preocupação: Eu preciso comprar esse produto no melhor preço preço (mais barato)
+
+Por que quando se compra assim, o lucro almenta. Então esse lojista, pega um papel e uma caneta e vai começar a buscar os proços do determiando produto que ele quer, ou seja, vai fazer um oçamento dos preços. E é daqui que vem o dignificado do termo "COTAÇÕES"
+
+Cotações nada mais é do que um "Pedido de Orçamento"
+
+Então esse lojista com o papel e a caneta na mão começa a ligar para alguns fornecedores que ele conheçe. O primeiro doi seu Anderson, e ele pergunta "Tem 
+
 # Treinamento — Gerency Cotações
 ## Parte 1: Entendendo o "porquê" antes do "como"
 
